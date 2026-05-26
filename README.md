@@ -40,13 +40,13 @@ You will need `node.js` and `git` installed globally on your machine.
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/project-name.git
+   git clone https://github.com/leknod/arandoncel.git
    ```
 
 2. Install dependencies:
    
    ```bash
-   cd project-name
+   cd arandoncel
    npm install
    ```
 
@@ -62,6 +62,6 @@ Open http://localhost:3000 to view it in the browser.
 
 <div align="center">
 
-[MIT License](https://github.com/leknod/arandoncel-com/blob/main/LICENSE) | [MarcDoncel.com](https://marcdoncel.com)
+[MIT License](https://github.com/leknod/arandoncel/blob/main/LICENSE) | [MarcDoncel.com](https://marcdoncel.com)
 
 </div>
